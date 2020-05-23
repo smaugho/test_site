@@ -1,4 +1,4 @@
-# test_site
+# API for tests
 
 Test site, more information on https://my-json-server.typicode.com/
 
